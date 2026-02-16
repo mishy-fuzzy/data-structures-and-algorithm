@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Assignment 1
+#Data Structures Assignment 1.docx
 
 ## Description
 This repository contains our group assignment for **Data Structures & Algorithms**. The assignment includes explanations, examples, and solutions for different data structure types and algorithms, as outlined in the course materials.
