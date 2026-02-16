@@ -5,7 +5,7 @@ This repository contains our group assignment for **Data Structures & Algorithms
 
 ## Files
 - `DataStructures_Assignment 1.docx` – The main Word document containing all answers.
-- 'assignment.c'-shows the language used
+- `assignment.c`-shows the language used
   
 
 ## Instructions
