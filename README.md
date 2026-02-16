@@ -4,7 +4,7 @@
 This repository contains our group assignment for **Data Structures & Algorithms**. The assignment includes explanations, examples, and solutions for different data structure types and algorithms, as outlined in the course materials.
 
 ## Files
-- `DataStructures_Assignment.docx` – The main Word document containing all answers.
+- `DataStructures_Assignment 1.docx` – The main Word document containing all answers.
 
 ## Instructions
 - Open the Word document to view the full assignment.
